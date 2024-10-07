@@ -19,4 +19,6 @@ In your solution you must provide the following in your Github link account:
   - Problem statement (description of the problem. Just copy what is stated here.
   - UML Class Diagram
   - Uploaded java codes for the solution.
-![Uploading lab4factoryPattern.png…]()
+
+
+![lab4factoryPattern](https://github.com/user-attachments/assets/3a7a927d-debb-4153-ad4d-8555077dc808)
